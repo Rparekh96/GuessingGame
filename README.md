@@ -1,2 +1,2 @@
-# Number Guessin gGame
+# Number Guessin Game
 Guess a number between 1 - 100.
